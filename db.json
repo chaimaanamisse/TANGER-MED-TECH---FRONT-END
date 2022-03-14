@@ -1,0 +1,31 @@
+{
+    "posts": [
+        {
+           "id": "1",
+           "title": "POST",
+           "body" : "this is the body",
+           "publishedAt": "10-01-2022"
+        },
+        {
+           "id": "1",
+           "title": "POST",
+           "body" : "this is the body",
+           "publishedAt": "10-01-2022"
+        },
+        {
+            "id": "1",
+           "title": "POST",
+           "body" : "this is the body",
+           "publishedAt": "10-01-2022"
+
+        }
+    ],
+    "users": [
+        {
+            "id": "1",
+           "nom": "POST",
+           "email": "10-01-2022@gmail.com"
+
+        }
+    ]
+}
