@@ -1,31 +1,135 @@
 {
-    "posts": [
-        {
-           "id": "1",
-           "title": "POST",
-           "body" : "this is the body",
-           "publishedAt": "10-01-2022"
-        },
-        {
-           "id": "1",
-           "title": "POST",
-           "body" : "this is the body",
-           "publishedAt": "10-01-2022"
-        },
-        {
-            "id": "1",
-           "title": "POST",
-           "body" : "this is the body",
-           "publishedAt": "10-01-2022"
-
-        }
-    ],
-    "users": [
-        {
-            "id": "1",
-           "nom": "POST",
-           "email": "10-01-2022@gmail.com"
-
-        }
-    ]
+  "navires": [
+    {
+      "id": "2",
+      "nom": "BOLOKO 1 B3 09",
+      "taille": "300 x 50 m",
+      "type": "ABD",
+      "matricule": "10012023"
+    },
+    {
+      "id": "3",
+      "nom": "SENBA 1Z E4",
+      "taille": "300 x 50 m",
+      "type": "ABD",
+      "matricule": "10012028"
+    },
+    {
+      "id": "4",
+      "nom": "POLO 1237",
+      "taille": "300 x 57 m",
+      "type": "ABD",
+      "matricule": "100120220"
+    },
+    {
+      "id": "5",
+      "nom": "POMKA 889",
+      "taille": "678 x 57 m",
+      "type": "ABD",
+      "matricule": "100120256"
+    },
+    {
+      "id": "6",
+      "nom": "POSTMALON 55",
+      "taille": "678 x 57 m",
+      "type": "ABD",
+      "matricule": "1001202200"
+    },
+    {
+      "id": "11",
+      "nom": "JOHAN-GE7 01",
+      "taille": "100 x 50 m",
+      "type": "ABD",
+      "matricule": "10012022"
+    },
+    {
+      "id": "22",
+      "nom": "BOLOKO 1 B3 09",
+      "taille": "300 x 50 m",
+      "type": "ABD",
+      "matricule": "10012023"
+    },
+    {
+      "id": "33",
+      "nom": "SENBA 1Z E4",
+      "taille": "300 x 50 m",
+      "type": "ABD",
+      "matricule": "10012028"
+    },
+    {
+      "id": "44",
+      "nom": "POLO 1237",
+      "taille": "300 x 57 m",
+      "type": "ABD",
+      "matricule": "100120220"
+    },
+    {
+      "id": "53",
+      "nom": "POMKA 889",
+      "taille": "678 x 57 m",
+      "type": "ABD",
+      "matricule": "100120256"
+    },
+    {
+      "id": "65",
+      "nom": "POSTMALON 55",
+      "taille": "678 x 57 m",
+      "type": "ABD",
+      "matricule": "1001202200"
+    },
+    {
+      "id": "69",
+      "nom": "POSTMALON 55",
+      "taille": "678 x 57 m",
+      "type": "ABD",
+      "matricule": "1001202200"
+    },
+    {
+      "id": "119",
+      "nom": "JOHAN-GE7 01",
+      "taille": "100 x 50 m",
+      "type": "ABD",
+      "matricule": "10012022"
+    },
+    {
+      "nom": "AZERTY",
+      "taille": "123 x 45 m",
+      "matricule": "1234567",
+      "type": "ASEDR",
+      "id": "5jnv49c"
+    },
+    {
+      "nom": "SERRF",
+      "taille": "123 x 34 m",
+      "matricule": "1234567",
+      "type": "AZERTYU",
+      "id": "7gBsJA3"
+    },
+    {
+      "nom": "asdert",
+      "taille": "2340 x12 m",
+      "matricule": "12345",
+      "type": "azerty",
+      "id": "XdfnAli"
+    },
+    {
+      "nom": "AAAA",
+      "taille": "AAAAA",
+      "matricule": "AAA",
+      "type": "aaaa",
+      "id": "E7srl3m"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "email": "10-01-2022@gmail.com"
+    }
+  ],
+  "postes": [],
+  "cavaliers": [],
+  "dokers": [],
+  "remorqeurs": [],
+  "quais": []
 }
